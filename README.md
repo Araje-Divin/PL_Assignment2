@@ -25,7 +25,7 @@ Then, I created a new PDB by following the given instructions from the task, nam
 ![ANOTHER NEW PDB](./image/PDB_delete_created.png) IT already created as it was displayed started by two letter of my first name
 
 Then, this image shows the deletion of the table after inserting the new PDB according to the given instructions.
-![deletion  process of PDB](./image/)
+![deletion  process of PDB](./image/select_deleate_PDB.png)
 
 Then dropping  created PDB among others and even in tables
 ![Erasing(dropping PDB IN Tables)](./image/drop_delete_PDB.png)
@@ -33,6 +33,7 @@ Then dropping  created PDB among others and even in tables
 ## TASK 3: CONFIGURATION OF  ORACLE ENTERPRISE MANAGER(OMF)
 This image displays the dashboard after completing the Oracle Enterprise Management configurations.
 ![ORACLE ENTERPRISE MANAGEMENT  CONFIGURATIONS](./image/task3.png)
+
 
 
 
